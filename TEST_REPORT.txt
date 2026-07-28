@@ -1,0 +1,25 @@
+AL-RUWAD V2 BILINGUAL FINAL - TEST REPORT
+==================================================
+PASS - question count
+PASS - answer count
+PASS - three categories
+PASS - Arabic initial
+PASS - English LTR
+PASS - nav translated
+PASS - Arabic restored
+PASS - quiz opens
+PASS - answers interactive - 3
+PASS - answer selected
+PASS - next question works
+PASS - quiz closes
+PASS - category buttons
+PASS - WhatsApp link
+PASS - Instagram link
+PASS - Facebook link
+PASS - phone link
+PASS - footer social SVG
+PASS - WhatsApp logo SVG
+PASS - contact form opens WhatsApp - https://wa.me/962799586976?text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B%20%D8%A3%D9%83%D8%A7%
+PASS - no JS errors
+
+Total: 21 | Passed: 21 | Failed: 0
