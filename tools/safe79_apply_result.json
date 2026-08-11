@@ -1,0 +1,648 @@
+{
+  "before": {
+    "exactlyOne": 301,
+    "multi": 0,
+    "missing": 352,
+    "total": 653
+  },
+  "after": {
+    "exactlyOne": 380,
+    "multi": 0,
+    "missing": 273,
+    "total": 653
+  },
+  "applied": [
+    {
+      "id": 1,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 3,
+      "answerId": "19",
+      "answerText": "جميع ما ذكر.",
+      "occurrences": 1
+    },
+    {
+      "id": 2,
+      "classification": "STRONG",
+      "answerIndex": 0,
+      "answerId": "4",
+      "answerText": "نعم",
+      "occurrences": 1
+    },
+    {
+      "id": 3,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "8",
+      "answerText": "عدم إستخدام الهاتف المتنقل أثناء القيادة",
+      "occurrences": 1
+    },
+    {
+      "id": 5,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "14",
+      "answerText": "ايقاف المركبة واخذ قسط من الراحة.",
+      "occurrences": 1
+    },
+    {
+      "id": 7,
+      "classification": "STRONG",
+      "answerIndex": 3,
+      "answerId": "27",
+      "answerText": "جميع ما ذكر.",
+      "occurrences": 1
+    },
+    {
+      "id": 11,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "38",
+      "answerText": "عدم الانتباه لشواخص المرور",
+      "occurrences": 1
+    },
+    {
+      "id": 15,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "49",
+      "answerText": "(4.0 )ملغرام كحول في التر الواحد من عينه النفس.",
+      "occurrences": 1
+    },
+    {
+      "id": 18,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 3,
+      "answerId": "60",
+      "answerText": "جميع ما ذكر .",
+      "occurrences": 1
+    },
+    {
+      "id": 22,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 2,
+      "answerId": "71",
+      "answerText": "(80 ) ملغم كحول /100 ميلليتر دم",
+      "occurrences": 1
+    },
+    {
+      "id": 24,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 2,
+      "answerId": "77",
+      "answerText": "جميع ماذكر .",
+      "occurrences": 1
+    },
+    {
+      "id": 26,
+      "classification": "STRONG",
+      "answerIndex": 0,
+      "answerId": "80",
+      "answerText": "المشاة",
+      "occurrences": 1
+    },
+    {
+      "id": 28,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 3,
+      "answerId": "89",
+      "answerText": "جميع ما ذكر.",
+      "occurrences": 1
+    },
+    {
+      "id": 31,
+      "classification": "STRONG",
+      "answerIndex": 3,
+      "answerId": "97",
+      "answerText": "جميع ما ذكر.",
+      "occurrences": 1
+    },
+    {
+      "id": 43,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 3,
+      "answerId": "125",
+      "answerText": "جميع ما ذكر",
+      "occurrences": 1
+    },
+    {
+      "id": 44,
+      "classification": "STRONG",
+      "answerIndex": 3,
+      "answerId": "129",
+      "answerText": "جميع ما ذكر.",
+      "occurrences": 1
+    },
+    {
+      "id": 46,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 2,
+      "answerId": "135",
+      "answerText": "استعمال حزام الامان ووجود الوسادة الهوائية توفر أكبر قدر ممكن من الوقاية في حالة وقوع حادث مروري",
+      "occurrences": 1
+    },
+    {
+      "id": 47,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "136",
+      "answerText": "إلزامي حسب قانون السير الاردني. .",
+      "occurrences": 1
+    },
+    {
+      "id": 48,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "140",
+      "answerText": "يساعد على حماية المستخدم.",
+      "occurrences": 1
+    },
+    {
+      "id": 49,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 2,
+      "answerId": "146",
+      "answerText": "انقاذ حياة مستخدمة",
+      "occurrences": 1
+    },
+    {
+      "id": 52,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 3,
+      "answerId": "157",
+      "answerText": "منتشر في كافة أنحاء العالم بما فيها الاردن .",
+      "occurrences": 1
+    },
+    {
+      "id": 53,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 3,
+      "answerId": "161",
+      "answerText": "إلزامي ويساعد المستخدم على تخفيف حدة الاصابة في حال وقوع حادث مروري شريطة استخدامه بالطريقة الصحيحة.",
+      "occurrences": 1
+    },
+    {
+      "id": 109,
+      "classification": "STRONG",
+      "answerIndex": 0,
+      "answerId": "340",
+      "answerText": "نعم",
+      "occurrences": 1
+    },
+    {
+      "id": 110,
+      "classification": "STRONG",
+      "answerIndex": 3,
+      "answerId": "345",
+      "answerText": "جميع ما ذكر",
+      "occurrences": 1
+    },
+    {
+      "id": 116,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "358",
+      "answerText": "اشارة ضوئية تظهر شخص مشاه يمشي باللون الاخضر.",
+      "occurrences": 1
+    },
+    {
+      "id": 118,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "363",
+      "answerText": "نعم",
+      "occurrences": 1
+    },
+    {
+      "id": 123,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "374",
+      "answerText": "70م/ساعة.",
+      "occurrences": 1
+    },
+    {
+      "id": 127,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "388",
+      "answerText": "40 كم/ساعة.",
+      "occurrences": 1
+    },
+    {
+      "id": 130,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "397",
+      "answerText": "40 كم/ساعة.",
+      "occurrences": 1
+    },
+    {
+      "id": 260,
+      "classification": "STRONG",
+      "answerIndex": 1,
+      "answerId": "789",
+      "answerText": "لا",
+      "occurrences": 1
+    },
+    {
+      "id": 261,
+      "classification": "STRONG",
+      "answerIndex": 3,
+      "answerId": "793",
+      "answerText": "جميع ما ذكر.",
+      "occurrences": 1
+    },
+    {
+      "id": 264,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "798",
+      "answerText": "حواف الطريق .",
+      "occurrences": 1
+    },
+    {
+      "id": 265,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "802",
+      "answerText": "المسارب.",
+      "occurrences": 1
+    },
+    {
+      "id": 267,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "806",
+      "answerText": "تسعة أشخاص بمن فيهم السائق",
+      "occurrences": 1
+    },
+    {
+      "id": 269,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 2,
+      "answerId": "814",
+      "answerText": "ثالثون راكبا.",
+      "occurrences": 1
+    },
+    {
+      "id": 270,
+      "classification": "STRONG",
+      "answerIndex": 0,
+      "answerId": "815",
+      "answerText": "نعم",
+      "occurrences": 1
+    },
+    {
+      "id": 271,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "818",
+      "answerText": "البضائع.",
+      "occurrences": 1
+    },
+    {
+      "id": 273,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "824",
+      "answerText": "سيارات الركوب",
+      "occurrences": 1
+    },
+    {
+      "id": 274,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "827",
+      "answerText": "سيارة الركوب المتوسطه.",
+      "occurrences": 1
+    },
+    {
+      "id": 275,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "831",
+      "answerText": "الحافلة.",
+      "occurrences": 1
+    },
+    {
+      "id": 276,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "834",
+      "answerText": "مركبات النقل المشترك",
+      "occurrences": 1
+    },
+    {
+      "id": 277,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "836",
+      "answerText": "مركبة الشحن",
+      "occurrences": 1
+    },
+    {
+      "id": 278,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 2,
+      "answerId": "841",
+      "answerText": "مركبة ذات الاستعمال الخاص",
+      "occurrences": 1
+    },
+    {
+      "id": 279,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 2,
+      "answerId": "844",
+      "answerText": "مركبة الاشغال.",
+      "occurrences": 1
+    },
+    {
+      "id": 283,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 2,
+      "answerId": "857",
+      "answerText": "رخصة قيادة حافلة متوسطة أو مركبة يزيد وزنها الاجمالي عن سبعة أطنان ونصف الطن",
+      "occurrences": 1
+    },
+    {
+      "id": 284,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "858",
+      "answerText": "رخصة قيادة مركبة ذوي احتياجات خاصة",
+      "occurrences": 1
+    },
+    {
+      "id": 287,
+      "classification": "STRONG",
+      "answerIndex": 0,
+      "answerId": "867",
+      "answerText": "الفئة الثالثة.",
+      "occurrences": 1
+    },
+    {
+      "id": 292,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 2,
+      "answerId": "884",
+      "answerText": "الفئة الرابعة",
+      "occurrences": 1
+    },
+    {
+      "id": 293,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 2,
+      "answerId": "887",
+      "answerText": "الفئة الخامسة",
+      "occurrences": 1
+    },
+    {
+      "id": 299,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "903",
+      "answerText": "رخصة سوق لقيادة مركبة أشغال.",
+      "occurrences": 1
+    },
+    {
+      "id": 300,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 2,
+      "answerId": "908",
+      "answerText": "رخصة سوق لقيادة مركبة زراعية.",
+      "occurrences": 1
+    },
+    {
+      "id": 304,
+      "classification": "STRONG",
+      "answerIndex": 3,
+      "answerId": "922",
+      "answerText": "جميع ما ذكر",
+      "occurrences": 1
+    },
+    {
+      "id": 436,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2098",
+      "answerText": "عن رتل متوقف من السيارات بسبب تعطل حركة السير او توقف السير بسبب وجود اشارة في الطريق",
+      "occurrences": 1
+    },
+    {
+      "id": 437,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 2,
+      "answerId": "2103",
+      "answerText": "عند تدني مدى الرؤية في الطريق نتيجة لعوامل طبيعية او طارئة",
+      "occurrences": 1
+    },
+    {
+      "id": 446,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "2128",
+      "answerText": "يخفف من سرعة مركبته وفسح المجال للمركبة الاخرى",
+      "occurrences": 1
+    },
+    {
+      "id": 462,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2167",
+      "answerText": "تقاطع غير محكوم بشرطي مرور والضوابط مرورية كالاشارات الضوئية والشواخص المرورية والعالمات الارضية.",
+      "occurrences": 1
+    },
+    {
+      "id": 473,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "2192",
+      "answerText": "للقطار.",
+      "occurrences": 1
+    },
+    {
+      "id": 474,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2194",
+      "answerText": "للمركبة المتجه الى اليمين",
+      "occurrences": 1
+    },
+    {
+      "id": 475,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "2198",
+      "answerText": "للقادم من الطريق الرئيسي",
+      "occurrences": 1
+    },
+    {
+      "id": 477,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2203",
+      "answerText": "للمركبة القادمة على التقاطع من يمينك.",
+      "occurrences": 1
+    },
+    {
+      "id": 483,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "2221",
+      "answerText": "عدم المرور بمركبته الا عندما يسمح له الشرطي.",
+      "occurrences": 1
+    },
+    {
+      "id": 484,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2223",
+      "answerText": "يخفف السرعة.",
+      "occurrences": 1
+    },
+    {
+      "id": 500,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "2268",
+      "answerText": "امتصاص الصدمات والمحافظة على توازن المركبة",
+      "occurrences": 1
+    },
+    {
+      "id": 509,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "2292",
+      "answerText": "صندوق التروس",
+      "occurrences": 1
+    },
+    {
+      "id": 516,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2314",
+      "answerText": "يجب أن يكون ماء التبريد نقياً وأن يحتوي مادة تساعد على عدم تكون الصدأ والرواسب",
+      "occurrences": 1
+    },
+    {
+      "id": 517,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2317",
+      "answerText": "المحافظة على حرارة المحرك عند حرارة معينة محددة.",
+      "occurrences": 1
+    },
+    {
+      "id": 525,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2341",
+      "answerText": "ايقاف سيارتك في مكان آمن لاتخاذ الاجراء الضروري",
+      "occurrences": 1
+    },
+    {
+      "id": 541,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2374",
+      "answerText": "واقية الرأس ( الخوذة) المناسبة",
+      "occurrences": 1
+    },
+    {
+      "id": 543,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2379",
+      "answerText": "حجز المركبة",
+      "occurrences": 1
+    },
+    {
+      "id": 544,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2383",
+      "answerText": "يجوز لاي فرد من افراد الشرطة ان يلقي القبض عليه دون مذكرة",
+      "occurrences": 1
+    },
+    {
+      "id": 546,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2390",
+      "answerText": "تسبب في وفاة شخص او اصابته بسبب قيادة المركبة.",
+      "occurrences": 1
+    },
+    {
+      "id": 547,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2394",
+      "answerText": "إذا تسبب سائق المركبة أثناء قيادتها بوفاة إنسان أو تسبب بإحداث عاهة دائمة له",
+      "occurrences": 1
+    },
+    {
+      "id": 549,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2399",
+      "answerText": "القبض من قبل أفراد الامن العام على السائق بدون مذكرة",
+      "occurrences": 1
+    },
+    {
+      "id": 597,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2550",
+      "answerText": "اثناء وقوف المركبة.",
+      "occurrences": 1
+    },
+    {
+      "id": 610,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2583",
+      "answerText": "للقطار 1",
+      "occurrences": 1
+    },
+    {
+      "id": 611,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 0,
+      "answerId": "2585",
+      "answerText": "إستخدام الغيارات الثقيلة اثناء القيادة.",
+      "occurrences": 1
+    },
+    {
+      "id": 625,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "2628",
+      "answerText": "تغير مفاجئ في الاتجاه ومن الممكن ان يكون انعطافي سريع او ازاحة سريعة للجانب",
+      "occurrences": 1
+    },
+    {
+      "id": 626,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 3,
+      "answerId": "2633",
+      "answerText": "قبل التحرك.",
+      "occurrences": 1
+    },
+    {
+      "id": 628,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "2638",
+      "answerText": "تخفيض السرعة والتوقف قبل الخط وإعطاء الاولوية للمركبات صاحبة حق الاولوية",
+      "occurrences": 1
+    },
+    {
+      "id": 638,
+      "classification": "HIGH_CONFIDENCE",
+      "answerIndex": 1,
+      "answerId": "2668",
+      "answerText": "عدم سلوك هذا الطريق كونه باتجاه واحد",
+      "occurrences": 1
+    }
+  ]
+}

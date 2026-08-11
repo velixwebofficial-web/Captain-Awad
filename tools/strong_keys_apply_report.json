@@ -1,0 +1,333 @@
+{
+  "beforeStats": {
+    "exactlyOne": 190,
+    "multi": 0,
+    "missing": 463,
+    "total": 653
+  },
+  "verifiedCount": 44,
+  "rejected": [],
+  "applied": [
+    {
+      "id": 184,
+      "answerIndex": 1,
+      "answerId": "560",
+      "answerText": "ممنوع مرور الدراجات النارية."
+    },
+    {
+      "id": 182,
+      "answerIndex": 2,
+      "answerId": "555",
+      "answerText": "ممنوع المرور."
+    },
+    {
+      "id": 173,
+      "answerIndex": 2,
+      "answerId": "528",
+      "answerText": "تقاطع طريق رئيسي مع فرعي من جهة اليمين"
+    },
+    {
+      "id": 161,
+      "answerIndex": 1,
+      "answerId": "490",
+      "answerText": "امامك سكة حديد دون حاجز"
+    },
+    {
+      "id": 153,
+      "answerIndex": 1,
+      "answerId": "466",
+      "answerText": "ممر او مدخل دراجات."
+    },
+    {
+      "id": 129,
+      "answerIndex": 1,
+      "answerId": "394",
+      "answerText": "40 كم/ساعة."
+    },
+    {
+      "id": 128,
+      "answerIndex": 0,
+      "answerId": "390",
+      "answerText": "40كم/ساعة."
+    },
+    {
+      "id": 126,
+      "answerIndex": 0,
+      "answerId": "384",
+      "answerText": "40 كم/ساعة."
+    },
+    {
+      "id": 105,
+      "answerIndex": 2,
+      "answerId": "329",
+      "answerText": "على السائق الحذر والانتباه من وجود طريق زلقة أمامه"
+    },
+    {
+      "id": 104,
+      "answerIndex": 0,
+      "answerId": "324",
+      "answerText": "على السائق الحذر والانتباه من وجود تساقط للحجارة من جهة اليمين."
+    },
+    {
+      "id": 202,
+      "answerIndex": 2,
+      "answerId": "615",
+      "answerText": "ممنوع التجاوز للشاحنات."
+    },
+    {
+      "id": 85,
+      "answerIndex": 0,
+      "answerId": "266",
+      "answerText": "ان يسير بسرعة (40 )كم/كحد اقصى."
+    },
+    {
+      "id": 62,
+      "answerIndex": 1,
+      "answerId": "191",
+      "answerText": "يسمح للمشاة بالمرور حتى اذا وجدت شاخصة تمنع مرور المشاة."
+    },
+    {
+      "id": 19,
+      "answerIndex": 3,
+      "answerId": "64",
+      "answerText": "جميع ما ذكر."
+    },
+    {
+      "id": 289,
+      "answerIndex": 0,
+      "answerId": "873",
+      "answerText": "الفئة الاولى (2)"
+    },
+    {
+      "id": 285,
+      "answerIndex": 1,
+      "answerId": "862",
+      "answerText": "الفئة الثالثة."
+    },
+    {
+      "id": 282,
+      "answerIndex": 2,
+      "answerId": "854",
+      "answerText": "رخصة سوق لقيادة مركبة لا يزيد وزنها الاجمالي على سبعة أطنان ونصف الطن"
+    },
+    {
+      "id": 280,
+      "answerIndex": 0,
+      "answerId": "845",
+      "answerText": "رخصة سوق لجميع انواع الدراجات الالية ."
+    },
+    {
+      "id": 268,
+      "answerIndex": 1,
+      "answerId": "810",
+      "answerText": "ما لا يقل عن عشرة و لا يزيد عن الثلاثين."
+    },
+    {
+      "id": 256,
+      "answerIndex": 1,
+      "answerId": "778",
+      "answerText": "الوقوف فقط للمركبات العمومية و النقل"
+    },
+    {
+      "id": 237,
+      "answerIndex": 0,
+      "answerId": "719",
+      "answerText": "فندق."
+    },
+    {
+      "id": 219,
+      "answerIndex": 0,
+      "answerId": "665",
+      "answerText": "اتجاه إجباري لأمام أواليمين ."
+    },
+    {
+      "id": 218,
+      "answerIndex": 0,
+      "answerId": "662",
+      "answerText": "اتجاه إجباري لأمام أو اليسار."
+    },
+    {
+      "id": 217,
+      "answerIndex": 1,
+      "answerId": "660",
+      "answerText": "إجبارية الدوران."
+    },
+    {
+      "id": 209,
+      "answerIndex": 1,
+      "answerId": "636",
+      "answerText": "نهاية حد السرعة المدون في الشاخصة."
+    },
+    {
+      "id": 476,
+      "answerIndex": 0,
+      "answerId": "2200",
+      "answerText": "للمركبة المتجه بإستقامة."
+    },
+    {
+      "id": 493,
+      "answerIndex": 1,
+      "answerId": "2250",
+      "answerText": "عدم الشروع في عبور الطريق واتمام العبور بعد البدء فيه"
+    },
+    {
+      "id": 495,
+      "answerIndex": 2,
+      "answerId": "2258",
+      "answerText": "الضوء الاحمر المخصص للمشاة."
+    },
+    {
+      "id": 511,
+      "answerIndex": 0,
+      "answerId": "2297",
+      "answerText": "تقوم مضخة الوقود بسحب ( امتصاص) الوقود من الخزان وتوصيله الى المازج."
+    },
+    {
+      "id": 621,
+      "answerIndex": 0,
+      "answerId": "2616",
+      "answerText": "ايقاف حركة مرور المركبات."
+    },
+    {
+      "id": 622,
+      "answerIndex": 1,
+      "answerId": "2620",
+      "answerText": "تخفيف سرعة المركبات."
+    },
+    {
+      "id": 627,
+      "answerIndex": 0,
+      "answerId": "2634",
+      "answerText": "مستوى الزيت في المحرك والماء في المبرد."
+    },
+    {
+      "id": 629,
+      "answerIndex": 1,
+      "answerId": "2641",
+      "answerText": "عدم سلوك هذا الطريق كونه مخصص للدراجات الهوائية."
+    },
+    {
+      "id": 639,
+      "answerIndex": 1,
+      "answerId": "2671",
+      "answerText": "عدم سلوك هذا الطريق كونه مخصص لحركة المشاه فقط."
+    },
+    {
+      "id": 643,
+      "answerIndex": 2,
+      "answerId": "2684",
+      "answerText": "طريق ذو اولوية"
+    },
+    {
+      "id": 644,
+      "answerIndex": 1,
+      "answerId": "2686",
+      "answerText": "الوقوف التام بمركبتك قبل الوصول إلى التقاطع وإعطاء الاولوية للمركبات صاحبة حق الاولوية."
+    },
+    {
+      "id": 645,
+      "answerIndex": 2,
+      "answerId": "2690",
+      "answerText": "تخفيض سرعة مركبتك قبل الوصول إلى التقاطع وإعطاء الاولوية للمركبات صاحبة حق الاولوية."
+    },
+    {
+      "id": 647,
+      "answerIndex": 1,
+      "answerId": "2695",
+      "answerText": "تخفيض سرعة مركبتك لتستطيع تجنب ( الجمل)."
+    },
+    {
+      "id": 655,
+      "answerIndex": 2,
+      "answerId": "2720",
+      "answerText": "تخفيض سرعة مركبتك والالتزام بحدود السرعة المقررة والجانب الايمن من الطريق وعدم التجاوز."
+    },
+    {
+      "id": 656,
+      "answerIndex": 0,
+      "answerId": "2721",
+      "answerText": "تخفيض سرعة مركبتك والالتزام بحدود السرعة المقررة والجانب الايمن من الطريق وعدم التجاوز"
+    },
+    {
+      "id": 661,
+      "answerIndex": 0,
+      "answerId": "2736",
+      "answerText": "يسير ملاصقا له"
+    },
+    {
+      "id": 671,
+      "answerIndex": 1,
+      "answerId": "2761",
+      "answerText": "غير صحيح"
+    },
+    {
+      "id": 681,
+      "answerIndex": 0,
+      "answerId": "2780",
+      "answerText": "تخفيف السرعة وإتخاذ اقصى اليمين"
+    },
+    {
+      "id": 697,
+      "answerIndex": 2,
+      "answerId": "2822",
+      "answerText": "للمشاة"
+    }
+  ],
+  "appliedIds": [
+    19,
+    62,
+    85,
+    104,
+    105,
+    126,
+    128,
+    129,
+    153,
+    161,
+    173,
+    182,
+    184,
+    202,
+    209,
+    217,
+    218,
+    219,
+    237,
+    256,
+    268,
+    280,
+    282,
+    285,
+    289,
+    476,
+    493,
+    495,
+    511,
+    621,
+    622,
+    627,
+    629,
+    639,
+    643,
+    644,
+    645,
+    647,
+    655,
+    656,
+    661,
+    671,
+    681,
+    697
+  ],
+  "afterStats": {
+    "exactlyOne": 234,
+    "multi": 0,
+    "missing": 419,
+    "total": 653
+  },
+  "multiCorrect": [],
+  "integrityFailures": [],
+  "accidentallyChanged": [],
+  "conflictingUnchanged": 30,
+  "unresolvedRemaining": 419
+}

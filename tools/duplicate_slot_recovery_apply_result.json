@@ -1,0 +1,76 @@
+{
+  "ok": true,
+  "before": {
+    "exactlyOne": 380,
+    "multi": 0,
+    "missing": 273,
+    "total": 653
+  },
+  "after": {
+    "exactlyOne": 384,
+    "multi": 0,
+    "missing": 269,
+    "total": 653
+  },
+  "applied": [
+    {
+      "slot": "1:96:616",
+      "id": 616,
+      "answerIndex": 1,
+      "answerId": "1786",
+      "answerText": "الضغط المنخفض للهواء بالاطارات",
+      "classification": "HIGH_CONFIDENCE"
+    },
+    {
+      "slot": "5:16:616",
+      "id": 616,
+      "answerIndex": 2,
+      "answerId": "2601",
+      "answerText": "تزويد المركبة بالطاقة من خلال الحركة.",
+      "classification": "HIGH_CONFIDENCE"
+    },
+    {
+      "slot": "1:97:617",
+      "id": 617,
+      "answerIndex": 0,
+      "answerId": "1788",
+      "answerText": "التأكد من صلاحية الاضوية (ضوء أمامي، ضوء بريك، ضوء الرجوع الى الخلف (الريفرس)، (الغمازات،  الاضوية الخلفية).",
+      "classification": "HIGH_CONFIDENCE"
+    },
+    {
+      "slot": "1:98:635",
+      "id": 635,
+      "answerIndex": 3,
+      "answerId": "1836",
+      "answerText": "جميع ما ذكر",
+      "classification": "STRONG"
+    }
+  ],
+  "siblingChecks": [
+    {
+      "key": "5:17:617",
+      "unchanged": true,
+      "before": "false,false,false,true",
+      "after": "false,false,false,true"
+    },
+    {
+      "key": "1:99:634",
+      "unchanged": true,
+      "before": "false,false",
+      "after": "false,false"
+    },
+    {
+      "key": "5:34:634",
+      "unchanged": true,
+      "before": "false,false,false",
+      "after": "false,false,false"
+    },
+    {
+      "key": "5:35:635",
+      "unchanged": true,
+      "before": "false,false,false",
+      "after": "false,false,false"
+    }
+  ],
+  "backup": "C:\\Users\\moats\\Downloads\\Captain-Awad-quiz\\Captain-Awad-main\\data\\questions.js.backup-before-duplicate-slot4"
+}

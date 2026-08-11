@@ -1,0 +1,1388 @@
+{
+  "ok": true,
+  "before": {
+    "exactlyOne": 384,
+    "multi": 0,
+    "missing": 269,
+    "total": 653
+  },
+  "after": {
+    "exactlyOne": 536,
+    "multi": 0,
+    "missing": 117,
+    "total": 653
+  },
+  "appliedCount": 152,
+  "rejected": [],
+  "applied": [
+    {
+      "slotKey": "1:86:13",
+      "id": 13,
+      "answerIndex": 0,
+      "answerId": "45",
+      "answerText": "نعم",
+      "imageDependent": false,
+      "yesNo": true
+    },
+    {
+      "slotKey": "1:85:14",
+      "id": 14,
+      "answerIndex": 0,
+      "answerId": "47",
+      "answerText": "نعم",
+      "imageDependent": false,
+      "yesNo": true
+    },
+    {
+      "slotKey": "1:83:16",
+      "id": 16,
+      "answerIndex": 0,
+      "answerId": "53",
+      "answerText": "نعم",
+      "imageDependent": false,
+      "yesNo": true
+    },
+    {
+      "slotKey": "1:82:17",
+      "id": 17,
+      "answerIndex": 0,
+      "answerId": "55",
+      "answerText": "نعم",
+      "imageDependent": false,
+      "yesNo": true
+    },
+    {
+      "slotKey": "1:79:20",
+      "id": 20,
+      "answerIndex": 0,
+      "answerId": "65",
+      "answerText": "نعم",
+      "imageDependent": false,
+      "yesNo": true
+    },
+    {
+      "slotKey": "1:76:23",
+      "id": 23,
+      "answerIndex": 0,
+      "answerId": "73",
+      "answerText": "نعم",
+      "imageDependent": false,
+      "yesNo": true
+    },
+    {
+      "slotKey": "1:65:34",
+      "id": 34,
+      "answerIndex": 0,
+      "answerId": "104",
+      "answerText": "نعم",
+      "imageDependent": false,
+      "yesNo": true
+    },
+    {
+      "slotKey": "1:64:35",
+      "id": 35,
+      "answerIndex": 1,
+      "answerId": "107",
+      "answerText": "لا",
+      "imageDependent": false,
+      "yesNo": true
+    },
+    {
+      "slotKey": "1:60:39",
+      "id": 39,
+      "answerIndex": 0,
+      "answerId": "114",
+      "answerText": "نعم",
+      "imageDependent": false,
+      "yesNo": true
+    },
+    {
+      "slotKey": "1:43:57",
+      "id": 57,
+      "answerIndex": 2,
+      "answerId": "174",
+      "answerText": "لا يسمح لك بالمرور عليها",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:41:59",
+      "id": 59,
+      "answerIndex": 3,
+      "answerId": "181",
+      "answerText": "ب+ج.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:40:60",
+      "id": 60,
+      "answerIndex": 2,
+      "answerId": "184",
+      "answerText": "عدم المرور إذا كان إرتفاع مركبتك اكثر من 4.7متر.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:37:63",
+      "id": 63,
+      "answerIndex": 3,
+      "answerId": "195",
+      "answerText": "خاطئ كونه لم يلتزم بالوقوف بالموقف.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:36:64",
+      "id": 64,
+      "answerIndex": 0,
+      "answerId": "196",
+      "answerText": "التمهل و التوقف عند وجود مشاة يعبرون الطريق.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:35:65",
+      "id": 65,
+      "answerIndex": 0,
+      "answerId": "199",
+      "answerText": "إرشادية",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:34:66",
+      "id": 66,
+      "answerIndex": 1,
+      "answerId": "203",
+      "answerText": "ممنوع الدخول الامام بداخل النفق",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:33:67",
+      "id": 67,
+      "answerIndex": 0,
+      "answerId": "205",
+      "answerText": "الالتفاف مسموح والانعطاف إلى اليسار ممنوع",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:32:68",
+      "id": 68,
+      "answerIndex": 0,
+      "answerId": "208",
+      "answerText": "عدم المسير على المسرب الايسر والاوسط.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:31:69",
+      "id": 69,
+      "answerIndex": 0,
+      "answerId": "211",
+      "answerText": "يجب ان تنعطف الى اليمين وممنوع الانعطاف الى اليسار",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:29:71",
+      "id": 71,
+      "answerIndex": 0,
+      "answerId": "219",
+      "answerText": "السرعة القصوى للشاحنات 90 كم/ساعة وللمركبات الصغيرة 100 كم/ساعة",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:28:72",
+      "id": 72,
+      "answerIndex": 0,
+      "answerId": "223",
+      "answerText": "يسمح لك بالوقوف",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:26:74",
+      "id": 74,
+      "answerIndex": 1,
+      "answerId": "232",
+      "answerText": "ممنوع مرور المركبات المعدة لنقل البضائع",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:25:75",
+      "id": 75,
+      "answerIndex": 2,
+      "answerId": "236",
+      "answerText": "يمنع الانعطاف لليسار ويمنع الدوران",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:24:76",
+      "id": 76,
+      "answerIndex": 0,
+      "answerId": "238",
+      "answerText": "يمنع الانعطاف إلى اليمين.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:23:77",
+      "id": 77,
+      "answerIndex": 1,
+      "answerId": "243",
+      "answerText": "خطوط عوائق أرضية تمنع المركبات من المرور فوقها.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:22:78",
+      "id": 78,
+      "answerIndex": 1,
+      "answerId": "246",
+      "answerText": "على السائق العمل على تخفيض سرعة مركبته لكي يستطيع اجتياز المطب بأمان.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:21:79",
+      "id": 79,
+      "answerIndex": 2,
+      "answerId": "250",
+      "answerText": "لا تتخذ الاحتياطات الالزمة لتثبيت الحمولة و تغطيتها لان حمولتها تشكل خطرا على الاخرين",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:20:80",
+      "id": 80,
+      "answerIndex": 1,
+      "answerId": "252",
+      "answerText": "غير صحيحة كون السائق لم يستخدم وسائل السلامة.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:18:82",
+      "id": 82,
+      "answerIndex": 0,
+      "answerId": "257",
+      "answerText": "على السائق عدم التجاوز عند مشاهدته لهذه الشاخصة.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:14:86",
+      "id": 86,
+      "answerIndex": 0,
+      "answerId": "269",
+      "answerText": "ممنوع التجاوز.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:13:87",
+      "id": 87,
+      "answerIndex": 1,
+      "answerId": "274",
+      "answerText": "بشكل خاطئ",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:12:88",
+      "id": 88,
+      "answerIndex": 0,
+      "answerId": "275",
+      "answerText": "متوقفة بشكل خاطئ لوجود شاخصة تمنع الوقوف والتوقف.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:11:89",
+      "id": 89,
+      "answerIndex": 1,
+      "answerId": "279",
+      "answerText": "التوقف بصورة تامة",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:10:90",
+      "id": 90,
+      "answerIndex": 0,
+      "answerId": "282",
+      "answerText": "السير الى الامام.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:9:91",
+      "id": 91,
+      "answerIndex": 1,
+      "answerId": "287",
+      "answerText": "يتصرف بشكل خاطئ.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:8:92",
+      "id": 92,
+      "answerIndex": 0,
+      "answerId": "288",
+      "answerText": "على السائق القادم من اليمين الانتباه كونه يدخل الى اتجاه الطريق الرئيسي.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:7:93",
+      "id": 93,
+      "answerIndex": 0,
+      "answerId": "292",
+      "answerText": "تخفيف سرعته والتوقف على التقاطع وإعطاء حق الاولوية حسب قواعد أولويات المرور.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:5:94",
+      "id": 94,
+      "answerIndex": 1,
+      "answerId": "297",
+      "answerText": "على السائق الانتباه والحذر من وجود أخطار مختلفة أمامه",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:4:95",
+      "id": 95,
+      "answerIndex": 1,
+      "answerId": "300",
+      "answerText": "ممنوع",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:3:96",
+      "id": 96,
+      "answerIndex": 2,
+      "answerId": "303",
+      "answerText": "ممنوع لسيره بعكس إتجاه السير.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:2:97",
+      "id": 97,
+      "answerIndex": 1,
+      "answerId": "306",
+      "answerText": "منع المشاة من عبور الطريق",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:1:98",
+      "id": 98,
+      "answerIndex": 1,
+      "answerId": "309",
+      "answerText": "خاطئ لانها تعيق المرور",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "1:0:99",
+      "id": 99,
+      "answerIndex": 0,
+      "answerId": "310",
+      "answerText": "صحيح لوجود معبر المشاة.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:98:100",
+      "id": 100,
+      "answerIndex": 1,
+      "answerId": "313",
+      "answerText": "خاطئ لانها  تبعد اكثر من نصف متر عن الرصيف",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:96:103",
+      "id": 103,
+      "answerIndex": 1,
+      "answerId": "322",
+      "answerText": "الالتزام بيمين الطريق .",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:91:108",
+      "id": 108,
+      "answerIndex": 1,
+      "answerId": "339",
+      "answerText": "خاطىء",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:77:122",
+      "id": 122,
+      "answerIndex": 2,
+      "answerId": "373",
+      "answerText": "80كم/ساعة.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:75:124",
+      "id": 124,
+      "answerIndex": 2,
+      "answerId": "379",
+      "answerText": "110كم/ساعة.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:74:125",
+      "id": 125,
+      "answerIndex": 0,
+      "answerId": "381",
+      "answerText": "100كم/ساعة.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:63:133",
+      "id": 133,
+      "answerIndex": 0,
+      "answerId": "405",
+      "answerText": "منعطفان اولها لليسار",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:62:134",
+      "id": 134,
+      "answerIndex": 0,
+      "answerId": "408",
+      "answerText": "منعطفان اولها لليمين",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:56:140",
+      "id": 140,
+      "answerIndex": 0,
+      "answerId": "426",
+      "answerText": "تضيق جسر.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:52:144",
+      "id": 144,
+      "answerIndex": 1,
+      "answerId": "439",
+      "answerText": "طريق ينتهي إلى رصيف بحر او نهر",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:51:145",
+      "id": 145,
+      "answerIndex": 2,
+      "answerId": "443",
+      "answerText": "اعمال على الطريق.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:48:148",
+      "id": 148,
+      "answerIndex": 1,
+      "answerId": "451",
+      "answerText": "طريق زلقة",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:47:149",
+      "id": 149,
+      "answerIndex": 2,
+      "answerId": "455",
+      "answerText": "تناثر حصى",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:46:150",
+      "id": 150,
+      "answerIndex": 0,
+      "answerId": "456",
+      "answerText": "ممر مشاة.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:45:151",
+      "id": 151,
+      "answerIndex": 1,
+      "answerId": "460",
+      "answerText": "وجود طلاب مدارس.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:43:154",
+      "id": 154,
+      "answerIndex": 2,
+      "answerId": "470",
+      "answerText": "عبور حيوانات.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:42:155",
+      "id": 155,
+      "answerIndex": 1,
+      "answerId": "472",
+      "answerText": "منطقة طيران منخفض",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:38:159",
+      "id": 159,
+      "answerIndex": 2,
+      "answerId": "485",
+      "answerText": "إنتهاء الطريق المفصول بجزيرة وسطية.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:37:160",
+      "id": 160,
+      "answerIndex": 0,
+      "answerId": "486",
+      "answerText": "امامك نفق.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:34:163",
+      "id": 163,
+      "answerIndex": 2,
+      "answerId": "497",
+      "answerText": "مقطع سكة حديد(خط واحد)",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:33:164",
+      "id": 164,
+      "answerIndex": 1,
+      "answerId": "499",
+      "answerText": "مقطع سكة حديد (أكثر من خط).",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:32:165",
+      "id": 165,
+      "answerIndex": 1,
+      "answerId": "502",
+      "answerText": "مقاطع سكة حديد على أبعاد مختلفة من التقاطع",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:31:166",
+      "id": 166,
+      "answerIndex": 2,
+      "answerId": "506",
+      "answerText": "أخطار مختلفة",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:30:167",
+      "id": 167,
+      "answerIndex": 2,
+      "answerId": "509",
+      "answerText": "تقاطع متكافئ الحقوق.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:29:168",
+      "id": 168,
+      "answerIndex": 2,
+      "answerId": "512",
+      "answerText": "أمامك دوار",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:28:169",
+      "id": 169,
+      "answerIndex": 2,
+      "answerId": "515",
+      "answerText": "أمامك شاخصة قف",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:27:170",
+      "id": 170,
+      "answerIndex": 1,
+      "answerId": "517",
+      "answerText": "تقاطع طريق رئيسي مع طريقين فرعيين",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:26:171",
+      "id": 171,
+      "answerIndex": 0,
+      "answerId": "519",
+      "answerText": "تقاطع طريق رئيسي مع فرعي من جهة اليسار.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:23:174",
+      "id": 174,
+      "answerIndex": 1,
+      "answerId": "530",
+      "answerText": "امامك شاخصة اعط الاولوية.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:22:175",
+      "id": 175,
+      "answerIndex": 2,
+      "answerId": "534",
+      "answerText": "وجوب الوقوف",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:21:176",
+      "id": 176,
+      "answerIndex": 2,
+      "answerId": "537",
+      "answerText": "اعطي الاولوية.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:20:177",
+      "id": 177,
+      "answerIndex": 2,
+      "answerId": "540",
+      "answerText": "طريق ذو اولوية .",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:19:178",
+      "id": 178,
+      "answerIndex": 0,
+      "answerId": "541",
+      "answerText": "نهاية الطريق ذات الاولوية.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:17:180",
+      "id": 180,
+      "answerIndex": 1,
+      "answerId": "548",
+      "answerText": "أفضلية المرور لك.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:14:183",
+      "id": 183,
+      "answerIndex": 0,
+      "answerId": "556",
+      "answerText": "ممنوع مرور المركبات الالية",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:12:185",
+      "id": 185,
+      "answerIndex": 2,
+      "answerId": "564",
+      "answerText": "ممنوع مرور الدراجات الهوائية",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:11:186",
+      "id": 186,
+      "answerIndex": 2,
+      "answerId": "567",
+      "answerText": "ممنوع مرور الدراجات ذات المحرك الصغير.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:10:187",
+      "id": 187,
+      "answerIndex": 2,
+      "answerId": "570",
+      "answerText": "ممنوع مرور المركبات المعدة لنقل البضائع .",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:9:188",
+      "id": 188,
+      "answerIndex": 1,
+      "answerId": "572",
+      "answerText": "ممنوع مرور المركات القاطرة والمقطورة.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:67:192",
+      "id": 192,
+      "answerIndex": 0,
+      "answerId": "583",
+      "answerText": "ممنوع مرور العربات التي تدفع باليد.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:68:197",
+      "id": 197,
+      "answerIndex": 0,
+      "answerId": "598",
+      "answerText": "ممنوع مرور المركبات التي تزن اكثر من 8طن على المحور",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "0:66:199",
+      "id": 199,
+      "answerIndex": 0,
+      "answerId": "604",
+      "answerText": "ممنوع الانعطاف إلى اليسار.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:98:204",
+      "id": 204,
+      "answerIndex": 1,
+      "answerId": "620",
+      "answerText": "نهاية منطقة منع التجاوز.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:97:205",
+      "id": 205,
+      "answerIndex": 0,
+      "answerId": "623",
+      "answerText": "نهاية منطقة منع التجاوز للشاحنات",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:96:206",
+      "id": 206,
+      "answerIndex": 2,
+      "answerId": "628",
+      "answerText": "نهاية منطقة المنع.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:95:207",
+      "id": 207,
+      "answerIndex": 0,
+      "answerId": "629",
+      "answerText": "السرعة القصوى",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:94:208",
+      "id": 208,
+      "answerIndex": 2,
+      "answerId": "634",
+      "answerText": "السرعات القصوى للمركبات.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:92:210",
+      "id": 210,
+      "answerIndex": 0,
+      "answerId": "638",
+      "answerText": "ممنوع استعمال الزامور",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:91:211",
+      "id": 211,
+      "answerIndex": 2,
+      "answerId": "643",
+      "answerText": "ممنوع المرور دون توقف (جمارك)",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:90:212",
+      "id": 212,
+      "answerIndex": 0,
+      "answerId": "644",
+      "answerText": "اتجاه إجباري إلى اليسار",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:89:213",
+      "id": 213,
+      "answerIndex": 1,
+      "answerId": "648",
+      "answerText": "اتجاه إجباري الى اليمين.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:88:214",
+      "id": 214,
+      "answerIndex": 0,
+      "answerId": "650",
+      "answerText": "انعطاف إجباري نحو اليمين.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:87:215",
+      "id": 215,
+      "answerIndex": 1,
+      "answerId": "654",
+      "answerText": "انعطاف إجباري نحو اليسار.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:86:216",
+      "id": 216,
+      "answerIndex": 2,
+      "answerId": "658",
+      "answerText": "اتجاه إجباري نحو الامام",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:82:220",
+      "id": 220,
+      "answerIndex": 0,
+      "answerId": "668",
+      "answerText": "انعطاف إجباري نحو اليمين أو اليسار.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:81:221",
+      "id": 221,
+      "answerIndex": 2,
+      "answerId": "673",
+      "answerText": "اتجاه إجباري نحو اليمين",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:80:222",
+      "id": 222,
+      "answerIndex": 2,
+      "answerId": "676",
+      "answerText": "اتجاه إجباري نحو اليمين",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:79:223",
+      "id": 223,
+      "answerIndex": 2,
+      "answerId": "679",
+      "answerText": "اتجاه إجباري نحو اليسار",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:78:224",
+      "id": 224,
+      "answerIndex": 0,
+      "answerId": "680",
+      "answerText": "اتجاه إجباري نحو اليمين أو اليسار",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:76:226",
+      "id": 226,
+      "answerIndex": 2,
+      "answerId": "688",
+      "answerText": "ممر للدراجات الهوائية.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:75:227",
+      "id": 227,
+      "answerIndex": 0,
+      "answerId": "689",
+      "answerText": "ممر إلزامي للمشاة .",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:74:228",
+      "id": 228,
+      "answerIndex": 1,
+      "answerId": "693",
+      "answerText": "ممر إلزامي للخيول",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:71:231",
+      "id": 231,
+      "answerIndex": 0,
+      "answerId": "701",
+      "answerText": "ممنوع الوقوف والتوقف.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:69:233",
+      "id": 233,
+      "answerIndex": 2,
+      "answerId": "709",
+      "answerText": "موقف.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:68:234",
+      "id": 234,
+      "answerIndex": 0,
+      "answerId": "710",
+      "answerText": "محطة وقود",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:67:235",
+      "id": 235,
+      "answerIndex": 0,
+      "answerId": "713",
+      "answerText": "مقهى.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:66:236",
+      "id": 236,
+      "answerIndex": 2,
+      "answerId": "718",
+      "answerText": "مطعم .",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:64:238",
+      "id": 238,
+      "answerIndex": 0,
+      "answerId": "722",
+      "answerText": "مركز إسعاف أولي.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:63:239",
+      "id": 239,
+      "answerIndex": 0,
+      "answerId": "725",
+      "answerText": "مناطق سياحية",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:62:240",
+      "id": 240,
+      "answerIndex": 0,
+      "answerId": "729",
+      "answerText": "موقف لذوي الاحتياجات الخاصه",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:61:241",
+      "id": 241,
+      "answerIndex": 0,
+      "answerId": "732",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "yesNo": true
+    },
+    {
+      "slotKey": "2:60:242",
+      "id": 242,
+      "answerIndex": 0,
+      "answerId": "734",
+      "answerText": "توزين إجباري للشاحنات",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:59:243",
+      "id": 243,
+      "answerIndex": 2,
+      "answerId": "739",
+      "answerText": "يمنع التجاوز من الجهتين",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:58:244",
+      "id": 244,
+      "answerIndex": 1,
+      "answerId": "741",
+      "answerText": "السماح بالتجاوز من جهة الخط المتقطع.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:57:245",
+      "id": 245,
+      "answerIndex": 0,
+      "answerId": "743",
+      "answerText": "السماح بالتجاوز.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:56:246",
+      "id": 246,
+      "answerIndex": 0,
+      "answerId": "747",
+      "answerText": "خط حافة الطريق.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:55:247",
+      "id": 247,
+      "answerIndex": 0,
+      "answerId": "750",
+      "answerText": "خط قف",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:54:248",
+      "id": 248,
+      "answerIndex": 1,
+      "answerId": "754",
+      "answerText": "خط الاولوية",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:53:249",
+      "id": 249,
+      "answerIndex": 1,
+      "answerId": "757",
+      "answerText": "ممر مشاة.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:52:250",
+      "id": 250,
+      "answerIndex": 0,
+      "answerId": "759",
+      "answerText": "قبل ممرات المشاة ويمنع الوقوف عليه",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:48:254",
+      "id": 254,
+      "answerIndex": 0,
+      "answerId": "771",
+      "answerText": "مواقف للمركبات بشكل زاوية على الطريق.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:12:290",
+      "id": 290,
+      "answerIndex": 1,
+      "answerId": "877",
+      "answerText": "الفئة الثانيه (2)",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:9:294",
+      "id": 294,
+      "answerIndex": 1,
+      "answerId": "889",
+      "answerText": "الفئة الخامسة.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:8:295",
+      "id": 295,
+      "answerIndex": 1,
+      "answerId": "892",
+      "answerText": "الفئة السادسة1.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "2:6:297",
+      "id": 297,
+      "answerIndex": 2,
+      "answerId": "899",
+      "answerText": "الفئة السابعة.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:7:607",
+      "id": 607,
+      "answerIndex": 0,
+      "answerId": "2574",
+      "answerText": "للمركبة رقم 1.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:8:608",
+      "id": 608,
+      "answerIndex": 2,
+      "answerId": "2578",
+      "answerText": "2 - 1 - 3",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:9:609",
+      "id": 609,
+      "answerIndex": 1,
+      "answerId": "2580",
+      "answerText": "1 - 3 - 2",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:23:623",
+      "id": 623,
+      "answerIndex": 2,
+      "answerId": "2624",
+      "answerText": "تمرير المركبات القادمة من جانب الطريق وايقاف المركبات القادمة من الامام و الخلف.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:30:630",
+      "id": 630,
+      "answerIndex": 0,
+      "answerId": "2643",
+      "answerText": "تخفيض سرعة مركبتك وإعطاء الاولوية للمركبات الاخرى على التقاطع ثم الدوران.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:31:631",
+      "id": 631,
+      "answerIndex": 1,
+      "answerId": "2647",
+      "answerText": "تخفيض سرعة مركبتك والانعطاف نحو اليسار.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:32:632",
+      "id": 632,
+      "answerIndex": 2,
+      "answerId": "2651",
+      "answerText": "تخفيض سرعة مركبتك والانعطاف نحو اليمين",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:41:641",
+      "id": 641,
+      "answerIndex": 0,
+      "answerId": "2676",
+      "answerText": "تخفيض سرعة مركبتك والسماح للمركبات الاخرى الموجودة في الاتجاه الاخر بالمرور.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:42:642",
+      "id": 642,
+      "answerIndex": 2,
+      "answerId": "2681",
+      "answerText": "الالتزام بحدود السرعة لان الطريق ذات الاولوية انتهت",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:46:646",
+      "id": 646,
+      "answerIndex": 0,
+      "answerId": "2691",
+      "answerText": "الالتزام بحدود السرعة المقررة بسبب الرياح الشديدة من جهة اليمين",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:50:650",
+      "id": 650,
+      "answerIndex": 2,
+      "answerId": "2705",
+      "answerText": "تخفيض سرعة مركبتك وترك مسافة أمان كافية بينك وبين المركبات الاخرى وعدم القيام بالتجاوز.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:51:651",
+      "id": 651,
+      "answerIndex": 0,
+      "answerId": "2706",
+      "answerText": "تخفيض سرعة مركبتك والالتزام بمسربك وعدم التجاوز.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:57:657",
+      "id": 657,
+      "answerIndex": 1,
+      "answerId": "2725",
+      "answerText": "ملائمة سرعة مركبتك مع هذا المرتفع والالتزام بحدود السرعة المقررة والتزام الجانب الايمن من الطريق.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:58:658",
+      "id": 658,
+      "answerIndex": 0,
+      "answerId": "2727",
+      "answerText": "ملائمة سرعة مركبتك مع هذا المنحدر والالتزام بحدود السرعة المقررة واستعمال الغيارات العكسية",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:62:662",
+      "id": 662,
+      "answerIndex": 0,
+      "answerId": "2738",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "yesNo": true
+    },
+    {
+      "slotKey": "5:64:664",
+      "id": 664,
+      "answerIndex": 0,
+      "answerId": "2743",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "yesNo": true
+    },
+    {
+      "slotKey": "5:65:665",
+      "id": 665,
+      "answerIndex": 0,
+      "answerId": "2745",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "yesNo": true
+    },
+    {
+      "slotKey": "5:66:666",
+      "id": 666,
+      "answerIndex": 0,
+      "answerId": "2747",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "yesNo": true
+    },
+    {
+      "slotKey": "5:69:669",
+      "id": 669,
+      "answerIndex": 0,
+      "answerId": "2754",
+      "answerText": "التوجه الى اليمين.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:76:676",
+      "id": 676,
+      "answerIndex": 0,
+      "answerId": "2770",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "yesNo": true
+    },
+    {
+      "slotKey": "5:78:678",
+      "id": 678,
+      "answerIndex": 0,
+      "answerId": "2774",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "yesNo": true
+    },
+    {
+      "slotKey": "5:82:682",
+      "id": 682,
+      "answerIndex": 1,
+      "answerId": "2784",
+      "answerText": "لا.",
+      "imageDependent": true,
+      "yesNo": true
+    },
+    {
+      "slotKey": "5:84:684",
+      "id": 684,
+      "answerIndex": 2,
+      "answerId": "2789",
+      "answerText": "السيارتين الصفراء او الحمراء خارج رؤية السيارة الزرقاء وتسمى هذه الحالة بالنقطة العمياء.",
+      "imageDependent": true,
+      "yesNo": false
+    },
+    {
+      "slotKey": "5:89:689",
+      "id": 689,
+      "answerIndex": 0,
+      "answerId": "2799",
+      "answerText": "التوقف للافساح للشاحنة بالالتفاف",
+      "imageDependent": true,
+      "yesNo": false
+    }
+  ],
+  "backup": "C:\\Users\\moats\\Downloads\\Captain-Awad-quiz\\Captain-Awad-main\\data\\questions.js.backup-before-manual152"
+}

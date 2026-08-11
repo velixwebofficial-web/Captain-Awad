@@ -1,0 +1,78 @@
+{
+  "generatedAt": "2026-08-11T19:27:55.171Z",
+  "beforeStats": {
+    "exactlyOne": 296,
+    "multi": 0,
+    "missing": 357,
+    "total": 653
+  },
+  "applied": [
+    {
+      "id": 4,
+      "si": 1,
+      "qi": 92,
+      "answerIndex": 0,
+      "answerId": "10",
+      "answerText": "نعم"
+    },
+    {
+      "id": 25,
+      "si": 1,
+      "qi": 74,
+      "answerIndex": 0,
+      "answerId": "78",
+      "answerText": "نعم"
+    },
+    {
+      "id": 27,
+      "si": 1,
+      "qi": 72,
+      "answerIndex": 0,
+      "answerId": "84",
+      "answerText": "نعم"
+    },
+    {
+      "id": 33,
+      "si": 1,
+      "qi": 66,
+      "answerIndex": 0,
+      "answerId": "102",
+      "answerText": "نعم"
+    },
+    {
+      "id": 923,
+      "si": 2,
+      "qi": 44,
+      "answerIndex": 0,
+      "answerId": "2797",
+      "answerText": "نعم"
+    }
+  ],
+  "appliedIds": [
+    4,
+    25,
+    27,
+    33,
+    923
+  ],
+  "afterStats": {
+    "exactlyOne": 301,
+    "multi": 0,
+    "missing": 352,
+    "total": 653
+  },
+  "multiCorrect": [],
+  "integrityFailures": [],
+  "accidentallyChanged": [],
+  "textOrderChanges": 0,
+  "forbiddenTouched": [],
+  "rejected": [],
+  "expected": {
+    "before": 296,
+    "applied": 5,
+    "after": 301,
+    "missing": 352,
+    "multiCorrect": 0,
+    "textOrderChanges": 0
+  }
+}

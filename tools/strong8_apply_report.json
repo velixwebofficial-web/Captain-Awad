@@ -1,0 +1,94 @@
+{
+  "beforeStats": {
+    "exactlyOne": 253,
+    "multi": 0,
+    "missing": 400,
+    "total": 653
+  },
+  "applied": [
+    {
+      "id": 172,
+      "si": 0,
+      "qi": 25,
+      "answerIndex": 3,
+      "answerId": "525",
+      "answerText": "جميع ما ذكر."
+    },
+    {
+      "id": 158,
+      "si": 0,
+      "qi": 39,
+      "answerIndex": 1,
+      "answerId": "481",
+      "answerText": "طريق ذو اتجاهين"
+    },
+    {
+      "id": 32,
+      "si": 1,
+      "qi": 67,
+      "answerIndex": 3,
+      "answerId": "101",
+      "answerText": "جميع ما ذكر."
+    },
+    {
+      "id": 12,
+      "si": 1,
+      "qi": 87,
+      "answerIndex": 3,
+      "answerId": "44",
+      "answerText": "جميع ما ذكر."
+    },
+    {
+      "id": 301,
+      "si": 2,
+      "qi": 2,
+      "answerIndex": 3,
+      "answerId": "912",
+      "answerText": "جميع ما ذكر"
+    },
+    {
+      "id": 272,
+      "si": 2,
+      "qi": 29,
+      "answerIndex": 3,
+      "answerId": "823",
+      "answerText": "جميع ما ذكر"
+    },
+    {
+      "id": 508,
+      "si": 4,
+      "qi": 8,
+      "answerIndex": 0,
+      "answerId": "2288",
+      "answerText": "نقل القوة من المحرك الى صندوق التروس أو فصلها عند الحاجة"
+    },
+    {
+      "id": 696,
+      "si": 5,
+      "qi": 96,
+      "answerIndex": 3,
+      "answerId": "2819",
+      "answerText": "أ + ب"
+    }
+  ],
+  "appliedIds": [
+    12,
+    32,
+    158,
+    172,
+    272,
+    301,
+    508,
+    696
+  ],
+  "afterStats": {
+    "exactlyOne": 261,
+    "multi": 0,
+    "missing": 392,
+    "total": 653
+  },
+  "multiCorrect": [],
+  "integrityFailures": [],
+  "accidentallyChanged": [],
+  "rejected": []
+}
