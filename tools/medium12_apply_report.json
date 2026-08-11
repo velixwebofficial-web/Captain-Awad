@@ -1,0 +1,285 @@
+{
+  "generatedAt": "2026-08-11T19:07:53.243Z",
+  "beforeStats": {
+    "exactlyOne": 261,
+    "multi": 0,
+    "missing": 392,
+    "total": 653
+  },
+  "applied": [
+    {
+      "id": 40,
+      "si": 1,
+      "qi": 59,
+      "answerIndex": 0,
+      "answerId": "116",
+      "answerText": "نعم",
+      "sources": [
+        {
+          "source": "https://morortest.com/questions/jo",
+          "id": 7089,
+          "index": 0
+        },
+        {
+          "source": "https://alqemahdriving.com/الفئتين-الثالثة-والرابعة/",
+          "id": 659,
+          "index": 0
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "si": 1,
+      "qi": 61,
+      "answerIndex": 1,
+      "answerId": "113",
+      "answerText": "لا",
+      "sources": [
+        {
+          "source": "https://morortest.com/questions/jo",
+          "id": 7101,
+          "index": 1
+        },
+        {
+          "source": "https://alqemahdriving.com/الفئتين-الثالثة-والرابعة/",
+          "id": 661,
+          "index": 1
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "si": 1,
+      "qi": 62,
+      "answerIndex": 0,
+      "answerId": "110",
+      "answerText": "نعم",
+      "sources": [
+        {
+          "source": "https://morortest.com/questions/jo",
+          "id": 7100,
+          "index": 0
+        },
+        {
+          "source": "https://alqemahdriving.com/الفئتين-الثالثة-والرابعة/",
+          "id": 662,
+          "index": 0
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "si": 1,
+      "qi": 63,
+      "answerIndex": 1,
+      "answerId": "109",
+      "answerText": "لا",
+      "sources": [
+        {
+          "source": "https://morortest.com/questions/jo",
+          "id": 7099,
+          "index": 1
+        },
+        {
+          "source": "https://alqemahdriving.com/الفئتين-الثالثة-والرابعة/",
+          "id": 663,
+          "index": 1
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "si": 1,
+      "qi": 78,
+      "answerIndex": 0,
+      "answerId": "67",
+      "answerText": "نعم",
+      "sources": [
+        {
+          "source": "https://morortest.com/questions/jo",
+          "id": 7020,
+          "index": 0
+        },
+        {
+          "source": "https://alqemahdriving.com/الفئتين-الثالثة-والرابعة/",
+          "id": 678,
+          "index": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "si": 1,
+      "qi": 90,
+      "answerIndex": 0,
+      "answerId": "20",
+      "answerText": "نعم",
+      "sources": [
+        {
+          "source": "https://morortest.com/questions/jo",
+          "id": 7013,
+          "index": 0
+        },
+        {
+          "source": "https://alqemahdriving.com/الفئتين-الثالثة-والرابعة/",
+          "id": 690,
+          "index": 0
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "si": 2,
+      "qi": 1,
+      "answerIndex": 0,
+      "answerId": "913",
+      "answerText": "نعم",
+      "sources": [
+        {
+          "source": "https://morortest.com/questions/jo",
+          "id": 7077,
+          "index": 0
+        },
+        {
+          "source": "https://alqemahdriving.com/الفئتين-الثالثة-والرابعة/",
+          "id": 701,
+          "index": 0
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "si": 2,
+      "qi": 35,
+      "answerIndex": 0,
+      "answerId": "804",
+      "answerText": "نعم",
+      "sources": [
+        {
+          "source": "https://morortest.com/questions/jo",
+          "id": 7055,
+          "index": 0
+        },
+        {
+          "source": "https://alqemahdriving.com/الفئتين-الثالثة-والرابعة/",
+          "id": 735,
+          "index": 0
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "si": 2,
+      "qi": 38,
+      "answerIndex": 1,
+      "answerId": "797",
+      "answerText": "لا",
+      "sources": [
+        {
+          "source": "https://morortest.com/questions/jo",
+          "id": 7054,
+          "index": 1
+        },
+        {
+          "source": "https://alqemahdriving.com/الفئتين-الثالثة-والرابعة/",
+          "id": 738,
+          "index": 1
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "si": 2,
+      "qi": 39,
+      "answerIndex": 1,
+      "answerId": "795",
+      "answerText": "لا",
+      "sources": [
+        {
+          "source": "https://morortest.com/questions/jo",
+          "id": 7053,
+          "index": 1
+        },
+        {
+          "source": "https://alqemahdriving.com/الفئتين-الثالثة-والرابعة/",
+          "id": 739,
+          "index": 1
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "si": 2,
+      "qi": 42,
+      "answerIndex": 1,
+      "answerId": "787",
+      "answerText": "لا",
+      "sources": [
+        {
+          "source": "https://morortest.com/questions/jo",
+          "id": 7050,
+          "index": 1
+        },
+        {
+          "source": "https://alqemahdriving.com/الفئتين-الثالثة-والرابعة/",
+          "id": 742,
+          "index": 1
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "si": 2,
+      "qi": 43,
+      "answerIndex": 1,
+      "answerId": "785",
+      "answerText": "لا",
+      "sources": [
+        {
+          "source": "https://morortest.com/questions/jo",
+          "id": 7049,
+          "index": 1
+        },
+        {
+          "source": "https://alqemahdriving.com/الفئتين-الثالثة-والرابعة/",
+          "id": 743,
+          "index": 1
+        }
+      ]
+    }
+  ],
+  "appliedIds": [
+    6,
+    21,
+    36,
+    37,
+    38,
+    40,
+    258,
+    259,
+    262,
+    263,
+    266,
+    302
+  ],
+  "afterStats": {
+    "exactlyOne": 273,
+    "multi": 0,
+    "missing": 380,
+    "total": 653
+  },
+  "multiCorrect": [],
+  "integrityFailures": [],
+  "accidentallyChanged": [],
+  "textOrderChanges": 0,
+  "mediumTouched": [],
+  "rejected": [],
+  "expected": {
+    "before": 261,
+    "applied": 12,
+    "after": 273,
+    "missing": 380,
+    "multiCorrect": 0,
+    "textOrderChanges": 0
+  }
+}

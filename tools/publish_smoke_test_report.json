@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "offline": {
+    "total": 556,
+    "verified": 556,
+    "missing": 0,
+    "multi": 0,
+    "emptySections": 0,
+    "sections": 7
+  },
+  "liveStats": {
+    "sections": 7,
+    "total": 556,
+    "missing": 0,
+    "multi": 0,
+    "emptySections": 0
+  },
+  "wrongOk": true,
+  "correctOk": true,
+  "navOk": true,
+  "sectionBtnCount": 8,
+  "sectionQuizOk": true,
+  "sampleId": 200,
+  "generatedAt": "2026-08-11T20:35:41.192Z"
+}

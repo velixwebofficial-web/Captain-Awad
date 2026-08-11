@@ -1,0 +1,286 @@
+{
+  "generatedAt": "2026-08-11T19:17:57.255Z",
+  "beforeStats": {
+    "exactlyOne": 273,
+    "multi": 0,
+    "missing": 380,
+    "total": 653
+  },
+  "applied": [
+    {
+      "id": 121,
+      "si": 0,
+      "qi": 78,
+      "answerIndex": 0,
+      "answerId": "369",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 120,
+      "si": 0,
+      "qi": 79,
+      "answerIndex": 0,
+      "answerId": "367",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 119,
+      "si": 0,
+      "qi": 80,
+      "answerIndex": 0,
+      "answerId": "365",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 117,
+      "si": 0,
+      "qi": 82,
+      "answerIndex": 0,
+      "answerId": "361",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 114,
+      "si": 0,
+      "qi": 85,
+      "answerIndex": 0,
+      "answerId": "352",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 113,
+      "si": 0,
+      "qi": 86,
+      "answerIndex": 0,
+      "answerId": "350",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 112,
+      "si": 0,
+      "qi": 87,
+      "answerIndex": 0,
+      "answerId": "348",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 111,
+      "si": 0,
+      "qi": 88,
+      "answerIndex": 0,
+      "answerId": "346",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 83,
+      "si": 1,
+      "qi": 17,
+      "answerIndex": 1,
+      "answerId": "261",
+      "answerText": "لا",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 42,
+      "si": 1,
+      "qi": 57,
+      "answerIndex": 0,
+      "answerId": "120",
+      "answerText": "نعم",
+      "imageDependent": false,
+      "imageComparisonResult": null
+    },
+    {
+      "id": 41,
+      "si": 1,
+      "qi": 58,
+      "answerIndex": 0,
+      "answerId": "118",
+      "answerText": "نعم",
+      "imageDependent": false,
+      "imageComparisonResult": null
+    },
+    {
+      "id": 624,
+      "si": 5,
+      "qi": 24,
+      "answerIndex": 1,
+      "answerId": "2626",
+      "answerText": "لا",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 667,
+      "si": 5,
+      "qi": 67,
+      "answerIndex": 0,
+      "answerId": "2749",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 672,
+      "si": 5,
+      "qi": 72,
+      "answerIndex": 0,
+      "answerId": "2762",
+      "answerText": "نعم",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 674,
+      "si": 5,
+      "qi": 74,
+      "answerIndex": 1,
+      "answerId": "2767",
+      "answerText": "لا",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 675,
+      "si": 5,
+      "qi": 75,
+      "answerIndex": 1,
+      "answerId": "2769",
+      "answerText": "لا",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 677,
+      "si": 5,
+      "qi": 77,
+      "answerIndex": 1,
+      "answerId": "2773",
+      "answerText": "لا",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 680,
+      "si": 5,
+      "qi": 80,
+      "answerIndex": 1,
+      "answerId": "2779",
+      "answerText": "لا",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 683,
+      "si": 5,
+      "qi": 83,
+      "answerIndex": 1,
+      "answerId": "2786",
+      "answerText": "لا",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 685,
+      "si": 5,
+      "qi": 85,
+      "answerIndex": 1,
+      "answerId": "2792",
+      "answerText": "لا",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 686,
+      "si": 5,
+      "qi": 86,
+      "answerIndex": 1,
+      "answerId": "2794",
+      "answerText": "لا",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 687,
+      "si": 5,
+      "qi": 87,
+      "answerIndex": 1,
+      "answerId": "2796",
+      "answerText": "لا",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    },
+    {
+      "id": 688,
+      "si": 5,
+      "qi": 88,
+      "answerIndex": 1,
+      "answerId": "2798",
+      "answerText": "لا",
+      "imageDependent": true,
+      "imageComparisonResult": "MATCH"
+    }
+  ],
+  "appliedIds": [
+    41,
+    42,
+    83,
+    111,
+    112,
+    113,
+    114,
+    117,
+    119,
+    120,
+    121,
+    624,
+    667,
+    672,
+    674,
+    675,
+    677,
+    680,
+    683,
+    685,
+    686,
+    687,
+    688
+  ],
+  "afterStats": {
+    "exactlyOne": 296,
+    "multi": 0,
+    "missing": 357,
+    "total": 653
+  },
+  "multiCorrect": [],
+  "integrityFailures": [],
+  "accidentallyChanged": [],
+  "textOrderChanges": 0,
+  "forbiddenTouched": [],
+  "rejected": [],
+  "expected": {
+    "before": 273,
+    "applied": 23,
+    "after": 296,
+    "missing": 357,
+    "multiCorrect": 0,
+    "textOrderChanges": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "ok": true,
+  "tested": [
+    "0:16:181",
+    "5:0:600",
+    "5:34:634",
+    "5:68:668",
+    "Q200"
+  ],
+  "results": [
+    {
+      "case": "Q181@0:16:181 wrong-click",
+      "ok": true,
+      "notes": []
+    },
+    {
+      "case": "Q181@0:16:181 correct-click",
+      "ok": true,
+      "notes": []
+    },
+    {
+      "case": "Q600@5:0:600 wrong-click",
+      "ok": true,
+      "notes": []
+    },
+    {
+      "case": "Q600@5:0:600 correct-click",
+      "ok": true,
+      "notes": []
+    },
+    {
+      "case": "Q634@5:34:634 wrong-click",
+      "ok": true,
+      "notes": []
+    },
+    {
+      "case": "Q634@5:34:634 correct-click",
+      "ok": true,
+      "notes": []
+    },
+    {
+      "case": "Q668@5:68:668 wrong-click",
+      "ok": true,
+      "notes": []
+    },
+    {
+      "case": "Q668@5:68:668 correct-click",
+      "ok": true,
+      "notes": []
+    },
+    {
+      "case": "Q200 wrong-click",
+      "ok": true,
+      "notes": []
+    },
+    {
+      "case": "Q200 correct-click",
+      "ok": true,
+      "notes": []
+    }
+  ],
+  "generatedAt": "2026-08-11T20:29:59.534Z"
+}
